@@ -20,7 +20,7 @@
     <properties>
         <junit.version>4.12</junit.version>
         <joda-time.version>2.3</joda-time.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <commons-lang3>3.3.1</commons-lang3>
     </properties>
     <dependencies>
