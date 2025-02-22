@@ -14,7 +14,6 @@
         <module>HelloGuava</module>
         <module>HelloNetty</module>
         <module>HelloLog</module>
-        <module>HelloJunit</module>
         <module>HelloGson</module>
     </modules>
     <properties>
